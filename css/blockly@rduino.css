@@ -1,15 +1,14 @@
 @CHARSET "UTF-8";
 
 @font-face {
-	font-family: "OpenDyslexic";
-	src: url('../fonts/OpenDyslexic-Regular.otf');
+	font-family: Arial,Verdana,Helvetica,Sans-serif
 }
 
 html,body {
 	height: 100%;
 	background-color: #fff;
 	margin: 0;
-	font-family: "OpenDyslexic";
+	font-family: Arial,Verdana,Helvetica,Sans-serif;
 }
 
 .rotate180 {
